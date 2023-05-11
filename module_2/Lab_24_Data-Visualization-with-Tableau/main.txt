@@ -1,1 +1,2 @@
-https://public.tableau.com/app/profile/robin.debessel/viz/Lab24-my_Classeur/Dashboard1?publish=yes
+PART 1 - https://public.tableau.com/app/profile/robin.debessel/viz/Lab24-my_Classeur/Dashboard1?publish=yes
+PART 2 - https://public.tableau.com/app/profile/robin.debessel/viz/Lab24-Part2/Dashboard1?publish=yes
