@@ -1,0 +1,25 @@
+datasource db {
+    provider = "mysql"
+    url      = env("DATABASE_URL")
+}
+
+model Inflation {
+    id   Int @id @default(autoincrement())
+    year Int
+    value Float
+    country String
+}
+
+model Imports {
+    id   Int @id @default(autoincrement())
+    year Int
+    value Float
+    country String
+}
+
+model Expenditure {
+    id   Int @id @default(autoincrement())
+    year Int
+    value Float
+    country String
+}
